@@ -1,0 +1,24 @@
+@use "../utils/variables" as *;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    // font-size: 62.5%;
+}
+
+body{
+    min-height:100vh;
+    display: inline-grid;
+    justify-items: center;   
+    background-color: hsl($clr-dark);
+    color:hsl($clr-white);
+    z-index:-1;
+    overflow-x: hidden;
+    
+}
+
