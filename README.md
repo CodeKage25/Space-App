@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](space-app-iota.vercel.app)
-- Live Site URL: [Add live site URL here](space-app-iota.vercel.app)
+- Solution URL: [Solution URL](space-app-iota.vercel.app)
+- Live Site URL: [Live site URL](space-app-iota.vercel.app)
 
 ## My process
 
